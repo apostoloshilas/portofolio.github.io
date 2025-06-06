@@ -1,5 +1,5 @@
 ---
-title: "paraskevasleivadaros.github.io"
+title: "apostoloshilas.github.io"
 excerpt: "A personal blog website powered by Jekyll & AcademicPages, a fork of Minimal Mistakes<br/><img src='/images/paraskevasleivadaros-github-io-500x300desktop.png'>"
 collection: portfolio
 ---
