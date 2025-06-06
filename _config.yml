@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "paraskevasleivadaros.github.io"
+title                    : "apostoloshilas.github.io"
 title_separator          : "-"
-name                     : &name "Paraskevas K. Leivadaros"
-description              : &description "🦈 CloudOps Engineer [@DigitalOcean](https://digitalocean.com) | 🎓 MSc Data Science [@UvA](https://uva.nl) | ☁️ 2x[AWS](https://credly.com/badges/c67cb517-dddb-4069-8b71-b4be0574b59b), 1x[GCP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c) | 🎓 BSc Computer Science [@AUEB](https://aueb.gr)"
-url                      : "https://paraskevasleivadaros.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Apostolos S. Hilas"
+description              : &description "📊 Data Analyst [@AlphaBank](https://www.alpha.gr/) | 🎓 MSc Data Analytics & Cybersecurity [@Unipi](https://www.unipi.gr/) | 🔍 [DP](https://credly.com/badges/acea46d5-e52f-4264-a049-cbda5e89f66c) | 🎓 BSc Statistics & Insurance [@Unipi](https://www.unipi.gr/)"
+url                      : "https://apostoloshilas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "paraskevasleivadaros/paraskevasleivadaros.github.io"
+repository               : "apostoloshilas/portofolio.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "paraskevasleivadaros/paraskevasleivadaros.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Paraskevas K. Leivadaros"
+  name             : "Apostolos S. Hilas"
   pronouns         : "he/him"  
-  bio              : "🦈 CloudOps Engineer @DigitalOcean | 🎓 MSc Data Science @UvA | ☁️ 2xAWS, 1xGCP | 🎓 BSc Computer Science @AUEB"
-  location         : "Amsterdam, Netherlands"
-  employer         : "DigitalOcean"
-  uri              : "https://paraskevasleivadaros.github.io"
-  email            : "paraskevasleivadaros@gmail.com"
+  bio              : "📊 Data Analyst @AlphaBank | 🎓 MSc Data Analytics & Cybersecurity @Unipi | ☁️ 2xAWS, 1xGCP | 🎓 BSc Statistics & Insurance [@Unipi"
+  location         : "Athens, Greece"
+  employer         : "Alpha Bank"
+  uri              : "https://apostoloshilas.github.io"
+  email            : "apostolosh7@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,34 +45,34 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "paraskevasleivadaros"
-  kaggle           : "parasleivadaros"  
-  stackoverflow    : "6062104"
+  github           : "apostoloshilas"
+  kaggle           : # Username 
+  stackoverflow    : # Username
 
   # Social media
-  bluesky          : "parasleivadaros.bsky.social" # "bsky.app" # Replace this with you Bluesky username
-  facebook         : "parasleivadaros"
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  facebook         : "apostoloshilas"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "paraskevasleivadaros"
+  instagram        : "apostolos_hilas"
   lastfm           : # Username
-  linkedin         : "paraskevasleivadaros"
+  linkedin         : "apostoloshilas"
   mastodon         : # URL
-  medium           : "https://medium.com/@paraskevasleivadaros"
+  medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "parasleivadaros"
+  twitter          : "# Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "paraskevasleivadaros"
+  youtube          : # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
